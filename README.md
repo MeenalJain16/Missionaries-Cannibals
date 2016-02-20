@@ -1,4 +1,4 @@
-# Missionaries_Cannibals
+# Missionaries Cannibals Problem
 The Missionaries and Cannibals problem is a classic AI puzzle
 
 
